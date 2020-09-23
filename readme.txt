@@ -1,0 +1,1 @@
+Slow version with regular timers.
